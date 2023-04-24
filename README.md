@@ -8,8 +8,11 @@ RAM: 1 GB Hard Disk: 80 GB
 # Software Requirements:
 OS: Windows 7 or above; 
 Software Used: DEV C++,Version:5.11
-A Hospital Management System (HMS) is a comprehensive software solution that enables hospitals and medical centres to manage their day-to-day operations efficiently. This includes managing patient records, scheduling appointments, managing financial transactions, and more. In this abstract, we will provide an overview of a typical HMS, its key features, and benefits.
+
 # Hospital-Management-System
+
+A Hospital Management System (HMS) is a comprehensive software solution that enables hospitals and medical centres to manage their day-to-day operations efficiently. This includes managing patient records, scheduling appointments, managing financial transactions, and more. In this abstract, we will provide an overview of a typical HMS, its key features, and benefits.
+
 The primary goal of an HMS is to automate and streamline various administrative and clinical workflows within a hospital. The system comprises several modules that work together to manage the different aspects of hospital operations. Here are some of the key modules in a typical HMS:
 
 •	Patient Management: This module manages patient demographics, medical history, diagnosis, treatment plans, and medication records. It also includes features such as appointment scheduling, patient tracking, and medical billing.
