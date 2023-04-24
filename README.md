@@ -22,7 +22,7 @@ The primary goal of an HMS is to automate and streamline various administrative 
 
 •	Laboratory Management: This module manages laboratory operations such as sample collection, testing, and reporting. It includes features such as test result tracking, quality control, and inventory management.
 
-Benefits of an HMS :-
+# Benefits of an HMS :-
 
 The following are some of the key benefits of using an HMS:
 
